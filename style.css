@@ -41,4 +41,14 @@ margin: 5px;}
 margin-left: 20px;
 padding: 10px 10px 10px 10px;
 }
-
+.food-color{
+    color: orangered;
+}
+.footer-position{
+    text-align: center;
+}
+.food-color-two{
+    color: navy;}
+.middle-banner{
+    background-image: image(Frame 58.jpg);
+}
